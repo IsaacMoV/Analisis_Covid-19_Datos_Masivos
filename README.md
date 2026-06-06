@@ -130,7 +130,7 @@ pyspark>=4.0.0
 pyarrow>=14.0.0
 pandas>=2.0.0
 numpy>=1.24.0
-statsmodels>=0.14.4
+statsmodels>=0.14.6
 prophet>=1.1.5
 matplotlib>=3.7.0
 ```
